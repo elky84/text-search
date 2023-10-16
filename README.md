@@ -17,7 +17,16 @@
 
 ## usage
 
+`.env` 또는 `.env.local` 파일에 
 
+```properties
+target_path=markdown
+find_text=Hello
+```
+
+값을 변경하면 됨
+
+target_path는 폴더임
 
 ## installation
 
